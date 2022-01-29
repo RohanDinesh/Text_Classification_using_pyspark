@@ -4,6 +4,7 @@ Huge amounts of data in today’s world are stored in the form of electronic doc
 
 PLATFORM USED: PySpark, Machine Learning, Python
 <br>
+
 ![image](https://user-images.githubusercontent.com/66969681/151652311-f533928f-4b56-44d9-b97f-3c9d928a1413.png)
 
 Text classification is one of the basic problems of text mining. Text classification is the process of assigning text documents to predefined categories based on their content. Text classification has been used in a number of application fields such as information retrieval, text filtering, electronic library and automatic web news extraction. Text classification can be achieved manually or can be automated successfully using machine learning techniques: support vector machines – SVM, tolerance rough set model approach and association rules approach. Whatever approach used, the challenge is that full-text content of documents is always taken into account so the classification process often deals with large number of features.
